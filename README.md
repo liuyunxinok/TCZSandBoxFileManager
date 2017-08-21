@@ -1,0 +1,2 @@
+# TCZSandBoxFileManager
+在项目开发的过程中,可以用来查看应用沙盒目录下的文件
